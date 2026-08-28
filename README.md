@@ -17,6 +17,10 @@ Cyano pairs the classic CyanogenMod cyano accent (`#33b5e5`) with a deep charcoa
 
 ![Cyano lock screen](assets/unlock.png)
 
+![Cyano Fastfetch](assets/fastfetch.png)
+
+![Cyano screensaver](assets/screensaver.png)
+
 ## Install
 
 Install the theme with Omarchy:
